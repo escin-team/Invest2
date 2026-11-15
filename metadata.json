@@ -1,0 +1,6 @@
+{
+  "name": "FinVault Admin — Dashboard Operasional & Keuangan",
+  "description": "Dashboard admin analitik untuk pemantauan user aktif, arus kas Top Up vs Withdrawal, antrean persetujuan transaksi, produk investasi, dan metrik keuangan seumur hidup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
